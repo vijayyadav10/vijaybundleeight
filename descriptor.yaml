@@ -1,0 +1,6 @@
+code: entando-strapi-template
+description: a mf with configuration
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+
